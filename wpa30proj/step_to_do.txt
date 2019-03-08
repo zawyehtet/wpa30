@@ -1,0 +1,13 @@
+#1 - Install Laravel
+#2 - Create Database
+#3 - Change at .env 
+#4 - Database Consideration
+	#4.1 - Migration & Migrate
+		students (id, name, address)
+	#4.2 - Seeding // 
+#5 - Authentication 
+	#5.1 - scaffolding
+#6 - Controller & Model
+	#6.1 - php artisan make:controller <ControllerName> --resource --model= <model_name>
+#7 - View Building
+#8 - Route
